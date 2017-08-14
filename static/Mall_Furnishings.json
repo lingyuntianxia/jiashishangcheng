@@ -1,0 +1,76 @@
+[
+	[
+		{
+			"id":"0",
+			"img": "../../static/img/decoration_shop1.jpg",
+			"name": "陶瓷创意时尚花瓶",
+			"money": "￥40"
+		},
+		{
+			"id":"1",
+			"img": "../../static/img/decoration_shop2.jpg",
+			"name": "北欧森系公主房墙贴饰",
+			"money": "￥369"
+		},
+		{
+			"id":"2",
+			"img": "../../static/img/decoration_shop1.jpg",
+			"name": "陶瓷创意时尚花瓶",
+			"money": "￥40"
+		},
+		{
+			"id":"3",
+			"img": "../../static/img/decoration_shop2.jpg",
+			"name": "北欧森系公主房墙贴饰",
+			"money": "￥369"
+		},
+		{
+			"id":"4",
+			"img": "../../static/img/decoration_shop1.jpg",
+			"name": "陶瓷创意时尚花瓶",
+			"money": "￥40"
+		},
+		{
+			"id":"5",
+			"img": "../../static/img/decoration_shop2.jpg",
+			"name": "北欧森系公主房墙贴饰",
+			"money": "￥369"
+		},
+		{
+			"id":"6",
+			"img": "../../static/img/decoration_shop1.jpg",
+			"name": "陶瓷创意时尚花瓶",
+			"money": "￥40"
+		},
+		{
+			"id":"7",
+			"img": "../../static/img/decoration_shop2.jpg",
+			"name": "北欧森系公主房墙贴饰",
+			"money": "￥369"
+		},
+		{
+			"id":"8",
+			"img": "../../static/img/decoration_shop1.jpg",
+			"name": "陶瓷创意时尚花瓶",
+			"money": "￥40"
+		},
+		{
+			"id":"9",
+			"img": "../../static/img/decoration_shop2.jpg",
+			"name": "北欧森系公主房墙贴饰",
+			"money": "￥369"
+		},
+		{
+			"id":"10",
+			"img": "../../static/img/decoration_shop1.jpg",
+			"name": "陶瓷创意时尚花瓶",
+			"money": "￥40"
+		},
+		{
+			"id":"11",
+			"img": "../../static/img/decoration_shop2.jpg",
+			"name": "北欧森系公主房墙贴饰",
+			"money": "￥369"
+		}
+	]
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "img1":"../../static/img/recommend1.jpg",
+        "img2":"../../static/img/decoration.jpg",
+        "img3":"../../static/img/storage.jpg",
+        "img4":"../../static/img/textiles.jpg"
+    },
+    {
+        "img1": "../../static/img/recommend_dir1.png",
+        "img2": "../../static/img/recommend_dir3.png",
+        "img3": "../../static/img/recommend_dir2.png"
+    },
+    [
+        {
+            "img": "../../static/img/recommend_nem1.png",
+            "font": "长绒棉毯舒适系列",
+            "money": "￥9"
+        },
+        {
+            "img": "../../static/img/recommend_nem2.png",
+            "font": "韩式陶瓷餐具系列",
+            "money": "￥19"
+        },
+        {
+            "img": "../../static/img/recommend_nem1.png",
+            "font": "长绒棉毯舒适系列",
+            "money": "￥9"
+        }
+    ],
+	{
+		"xsms":[
+			{
+				"img": "../../static/img/recommend_discount.png ",
+				"name": "纯色卡通窗帘",
+				"money": "￥69",
+				"explanation": "即将开始"
+			},
+			{
+				"img": "../../static/img/recommend_discount.png ",
+				"name": "纯色卡通窗帘",
+				"money": "￥69",
+				"price":"￥109",
+				"explanation": "即将开始"
+			},
+			{
+				"img": "../../static/img/recommend_discount.png ",
+				"name": "纯色卡通窗帘",
+				"money": "￥69",
+				"price":"￥109",
+				"explanation": "即将开始"
+			},
+			{
+				"img": "../../static/img/recommend_discount.png ",
+				"name": "纯色卡通窗帘",
+				"money": "￥69",
+				"price":"￥109",
+				"explanation": "即将开始"
+			},
+			{
+				"img": "../../static/img/recommend_discount.png ",
+				"name": "纯色卡通窗帘",
+				"money": "￥69",
+				"price":"￥109",
+				"explanation": "即将开始"
+			},
+			{
+				"img": "../../static/img/recommend_discount.png ",
+				"name":"纯色卡通窗帘",
+				"money": "￥69",
+				"price":"￥109",
+				"explanation":"即将开始"
+			}
+		]
+	},
+    {
+        "drsd": [
+            {
+                "img1": "../../static/img/recommend_share_title.png",
+                "name": "琳达",
+                "img2": "../../static/img/recommend_share.png",
+                "quantity1": "20",
+                "quantity2": "6",
+                "quantity3": "1",
+                "font": "无需滤镜的小树枝，虽然稍微有点儿焉，和折纸花瓶是极配。绿色很有意思，放在工业设计上经常觉得突兀，可是放在自然里又是艳压群芳。"
+            },
+            {
+                "img1": "../../static/img/recommend_share_title.png",
+                "name": "琳达",
+                "img2": "../../static/img/recommend_share.png",
+                "quantity1": "20",
+                "quantity2": "6",
+                "quantity3": "1",
+                "font": "无需滤镜的小树枝，虽然稍微有点儿焉，和折纸花瓶是极配。绿色很有意思，放在工业设计上经常觉得突兀，可是放在自然里又是艳压群芳。"
+            }
+        ]
+    },
+    {
+        "cnxh": [
+            {
+                "img": "../../static/img/recommend_like.png",
+                "name": "创意现代简约台灯",
+                "explanation": "创意现代简约个性玻璃书桌灯，遥控调光台灯，陪伴书桌阅读时光的美好瞬间。",
+                "money": "￥369",
+                "go": "购买"
+            },
+            {
+                "img": "../../static/img/recommend_like2.png",
+                "name": "沃之沃塑料收纳箱",
+                "explanation": "创意现代简约个性玻璃书桌灯，遥控调光台灯，陪伴书桌阅读时光的美好瞬间。",
+                "money": "￥69",
+                "go": "购买"
+            }
+        ]
+    },
+    {
+        "TandA": [
+            {
+                "title": "欧美生活直通车"
+            },
+            {
+                "title": "新品上市",
+                "azao": "查看所有新品 >"
+            },
+            {
+                "title": "周二周五·限时秒杀",
+                "time": "05月23日周二11:00——11:30"
+            },
+            {
+                "title": "达人晒单",
+                "azao": "查看更多 >"
+            },
+            {
+                "title": "猜你喜欢",
+                "azao": "查看更多 >"
+            }
+        ]
+    }
+]
